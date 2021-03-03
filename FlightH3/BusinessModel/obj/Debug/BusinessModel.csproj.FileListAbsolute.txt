@@ -1,0 +1,7 @@
+C:\Users\Kirill\Desktop\lab3_Simulation\FlightH3\BusinessModel\bin\Debug\BusinessModel.exe.config
+C:\Users\Kirill\Desktop\lab3_Simulation\FlightH3\BusinessModel\bin\Debug\BusinessModel.exe
+C:\Users\Kirill\Desktop\lab3_Simulation\FlightH3\BusinessModel\bin\Debug\BusinessModel.pdb
+C:\Users\Kirill\Desktop\lab3_Simulation\FlightH3\BusinessModel\obj\Debug\BusinessModel.csprojAssemblyReference.cache
+C:\Users\Kirill\Desktop\lab3_Simulation\FlightH3\BusinessModel\obj\Debug\BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\lab3_Simulation\FlightH3\BusinessModel\obj\Debug\BusinessModel.exe
+C:\Users\Kirill\Desktop\lab3_Simulation\FlightH3\BusinessModel\obj\Debug\BusinessModel.pdb
